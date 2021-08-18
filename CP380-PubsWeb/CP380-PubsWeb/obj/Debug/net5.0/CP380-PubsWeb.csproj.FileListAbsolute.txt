@@ -1,0 +1,226 @@
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.exe
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.deps.json
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.json
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.dev.json
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\ref\CP380-PubsWeb.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.AssemblyReference.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfoInputs.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfo.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CoreCompileInputs.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.Manifest.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.xml
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\scopedcss\bundle\CP380-PubsWeb.styles.css
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.input.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.output.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorCoreGenerate.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.Views.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CopyComplete
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\ref\CP380-PubsWeb.dll
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.pdb
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.genruntimeconfig.cache
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Jobs\index.cshtml.g.cs
+C:\Users\Nilkumar Patel\source\repos\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Employees\index.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.exe
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.deps.json
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.json
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.dev.json
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\ref\CP380-PubsWeb.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.AssemblyReference.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfoInputs.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfo.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CoreCompileInputs.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.Manifest.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.xml
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\scopedcss\bundle\CP380-PubsWeb.styles.css
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.input.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.output.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorCoreGenerate.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Employees\index.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Jobs\index.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.Views.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CopyComplete
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\ref\CP380-PubsWeb.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\CP380-PubsWeb\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.genruntimeconfig.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.deps.json
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.runtimeconfig.json
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.runtimeconfig.dev.json
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.exe
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.exe
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.deps.json
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.json
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.runtimeconfig.dev.json
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\ref\CP380-PubsWeb.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsWeb.Views.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\bin\Debug\net5.0\CP380-PubsLab.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.AssemblyReference.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfoInputs.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.AssemblyInfo.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CoreCompileInputs.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorAssemblyInfo.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.Manifest.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\staticwebassets\CP380-PubsWeb.StaticWebAssets.xml
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\scopedcss\bundle\CP380-PubsWeb.styles.css
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.input.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.TagHelpers.output.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorCoreGenerate.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Employees\index.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Jobs\index.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cache
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.RazorTargetAssemblyInfo.cs
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.Views.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.csproj.CopyComplete
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\ref\CP380-PubsWeb.dll
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.pdb
+C:\Users\vinay\Videos\CP380-PubsLab\CP380-PubsWeb\obj\Debug\net5.0\CP380-PubsWeb.genruntimeconfig.cache
